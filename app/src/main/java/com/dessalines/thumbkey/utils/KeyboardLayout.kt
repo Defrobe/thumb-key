@@ -123,6 +123,7 @@ import com.dessalines.thumbkey.keyboards.KB_RU_MESSAGEASE
 import com.dessalines.thumbkey.keyboards.KB_RU_MESSAGEASE_SYMBOLS
 import com.dessalines.thumbkey.keyboards.KB_RU_THUMBKEY
 import com.dessalines.thumbkey.keyboards.KB_RU_THUMBKEY_SYMBOLS
+import com.dessalines.thumbkey.keyboards.KB_RU_THUMBKEY_WRITER
 import com.dessalines.thumbkey.keyboards.KB_SK_THUMBKEY
 import com.dessalines.thumbkey.keyboards.KB_SK_THUMBKEY_V2
 import com.dessalines.thumbkey.keyboards.KB_SK_THUMBKEY_V3
